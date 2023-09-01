@@ -1,2 +1,2 @@
-game
+
 fav_movies
